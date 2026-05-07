@@ -1,2 +1,3 @@
-# Miniproject-02
-project glowlogics
+Customer Segmentation is a machine learning project that groups customers based on similar characteristics like income, age, and spending behavior. The main purpose of this system is to help businesses understand different types of customers and improve marketing strategies.
+The project uses the K-Means Clustering algorithm to divide customers into groups such as high spenders, low spenders, premium customers, and budget customers. Customer data is collected, cleaned, and analyzed using Python libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.
+Graphs and visualizations are used to show different customer groups clearly. This system helps businesses provide better services, target customers effectively, and increase sales using data-driven decisions.
